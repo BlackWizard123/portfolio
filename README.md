@@ -1,4 +1,7 @@
-# Personal Portfolio Website 🚀
+
+<img width="3464" height="1280" alt="Picsart_26-02-01_20-31-15-697" src="https://github.com/user-attachments/assets/95c7e060-1c75-4ed8-9c7d-4f1bf975a194" />
+
+# Personal Portfolio Website 
 
 A modern, fully responsive **personal portfolio website** built using **HTML, CSS, and Vanilla JavaScript**, designed to showcase my skills, experience, projects, problem-solving profile, and contact information in a clean, recruiter-friendly way.
 
@@ -166,3 +169,4 @@ https://<your-username>.github.io/My-Portfolio/
 If you like this portfolio or want to build something similar, feel free to connect or reach out.
 
 Thanks for visiting! 😊
+
