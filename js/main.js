@@ -9,6 +9,7 @@ import { renderBlogs } from "./renderBlogs.js";
 import { renderMoments } from "./renderMoments.js";
 import { loadBlog } from "./blogLoader.js";
 import { renderLeetCode } from "./renderLeetcode.js";
+import { renderAcademics } from "./renderAcademics.js";
 
 document.addEventListener("DOMContentLoaded", () => {
   renderNavbar();
@@ -17,6 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
   renderSkills();
   renderProjects();
   renderExperience();
+  renderAcademics();
   renderCertifications();
   renderMoments();
   renderBlogs();
@@ -71,6 +73,24 @@ document.addEventListener("click", (e) => {
     toast.classList.remove("show");
   }, 3000);
 });
+
+const navigator = document.querySelector(".section-navigator");
+let closeTimeout;
+
+function openNavigator() {
+  clearTimeout(closeTimeout);
+  navigator.classList.add("open");
+}
+
+function closeNavigatorDelayed() {
+  closeTimeout = setTimeout(() => {
+    navigator.classList.remove("open");
+  }, 500); // 1 second delay
+}
+
+navigator.addEventListener("mouseenter", openNavigator);
+navigator.addEventListener("mouseleave", closeNavigatorDelayed);
+
 
 
 

@@ -1,0 +1,36 @@
+[
+  {
+    "degree": "B.Tech in Computer Science",
+    "institution": "XYZ University",
+    "board": "Anna University",
+    "startYear": "2020",
+    "endYear": "2024",
+    "score": "8.7 CGPA",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "Database Management Systems"
+    ],
+    "courses": [
+      "Machine Learning",
+      "Cloud Computing",
+      "Distributed Systems"
+    ],
+    "achievements": [
+      "Top 5% of the batch"
+    ]
+  },
+  {
+    "degree": "Higher Secondary Education",
+    "institution": "ABC School",
+    "board": "State Board",
+    "startYear": "2018",
+    "endYear": "2020",
+    "score": "450 / 500",
+    "subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ]
+  }
+]
