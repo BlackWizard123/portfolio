@@ -1,11 +1,11 @@
 [
   {
-    "degree": "B.Tech in Computer Science",
-    "institution": "XYZ University",
-    "board": "Anna University",
-    "startYear": "2020",
-    "endYear": "2024",
-    "score": "8.7 CGPA",
+    "degree": "B.E - Computer Science and Engineering",
+    "institution": "Mepco Schlenk Engineering College, Sivakasi, Tamilnadu",
+    "board": "Affliated to Anna University",
+    "startYear": "2019",
+    "endYear": "2023",
+    "score": "8.3 CGPA",
     "subjects": [
       "Data Structures",
       "Operating Systems",
@@ -21,12 +21,25 @@
     ]
   },
   {
-    "degree": "Higher Secondary Education",
-    "institution": "ABC School",
-    "board": "State Board",
+    "degree": "Higher Secondary Certificate (HSC)",
+    "institution": "S.M.B.M.P Matriculation Higher Secondary School, Dindigul",
+    "board": "Biology & Maths - TN Stateboard",
     "startYear": "2018",
-    "endYear": "2020",
-    "score": "450 / 500",
+    "endYear": "2019",
+    "score": "498 / 600",
+    "subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry"
+    ]
+  },
+  {
+    "degree": "Secondary School Certificate (SSC)",
+    "institution": "S.M.B.M.P Matriculation Higher Secondary School, Dindigul",
+    "board": "TN Stateboard",
+    "startYear": "2016",
+    "endYear": "2017",
+    "score": "471 / 500",
     "subjects": [
       "Mathematics",
       "Physics",
